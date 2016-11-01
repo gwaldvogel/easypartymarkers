@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: EasyPartyMarkers
+## Author: Schmogue
+## Version: 1.0.0
+
+main.lua
